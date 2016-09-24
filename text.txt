@@ -1,0 +1,3 @@
+here is the first line of the sample text created with cat command
+some change on the staged file
+
